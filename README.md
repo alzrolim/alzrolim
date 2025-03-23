@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @alzrolim
 - 👀 I’m interested in starting a new carrer as software developer
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and C#
 - 💞️ I’m looking to collaborate on any project 
-- 📫 How to reach me...
+- 📫 How to reach me:
+  argonauth@outlook.com
+  www.linkedin.com/in/aluiziorolim
+
 
 <!---
 alzrolim/alzrolim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
