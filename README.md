@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alzrolim
 - 👀 I’m interested in starting a new carrer as software developer
-- 🌱 I’m currently learning python and C#
+- 🌱 I’m currently learning PYTHON, JAVA and C#
 - 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me:
   argonauth@outlook.com
