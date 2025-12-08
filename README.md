@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @alzrolim
-- 👀 I’m interested in starting a new carrer as software developer
-- 🌱 I’m currently learning PYTHON, JAVA and C#
-- 💞️ I’m looking to collaborate on any project 
+- 👋 Hi, I’m Aluizio
+- 👀 I’m software developer moved by bytes && coffee
+- 🌱 I’m currently rooted in C#, Python and JAVA
+- ⚙️ Trying to focus in backend
 - 📫 How to reach me:
   argonauth@outlook.com
   www.linkedin.com/in/aluiziorolim
