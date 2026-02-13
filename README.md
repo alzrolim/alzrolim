@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Aluizio
-- 👀 I’m software developer moved by bytes && coffee
-- 🌱 I’m currently rooted in C#, Python and JAVA
-- ⚙️ Trying to focus in backend
+- 👀 I’m a software developer moved by bytes && coffee
+- 🌱 My main language is C#.
 - 📫 How to reach me:
-  argonauth@outlook.com
+  rolim.aluizio@gmail.com
   www.linkedin.com/in/aluiziorolim
 
 
