@@ -1,3 +1,17 @@
+
+# 👋 Aluizio Rolim
+💻 .NET Software Developer
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+Backend | APIs | Microservices | Clean Architecture  
+📫 rolim.aluizio@gmail.com | linkedin.com/in/aluiziorolim
+
+
+
+<!---
 👋 Aluizio Rolim
 💻 .NET Software Developer
 
@@ -7,6 +21,8 @@
 🚀 Performance, scalability and maintainable code
 
 📫 rolim.aluizio@gmail.com | linkedin.com/in/aluiziorolim
+--->
+
 
 
 <!---
