@@ -10,8 +10,7 @@ Backend and cross-platform development with C# and .NET.
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 APIs • Microservices • Clean Architecture • Scalable Systems  
-📫 rolim.aluizio@gmail.com | linkedin.com/in/aluiziorolim
-
+📫 rolim.aluizio@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/aluiziorolim)
 
 
 
